@@ -1,3 +1,3 @@
 # Galileo Board 23
 
-Esta es una prueba
+Esta es una prueba2 
